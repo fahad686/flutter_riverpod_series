@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flutter_riverpod_series.iml" filepath="$PROJECT_DIR$/flutter_riverpod_series.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/flutter_riverpod_series_android.iml" filepath="$PROJECT_DIR$/android/flutter_riverpod_series_android.iml" />
+    </modules>
+  </component>
+</project>
